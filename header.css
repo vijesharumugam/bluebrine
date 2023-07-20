@@ -1,0 +1,24 @@
+.header{
+  height: 70px;
+  display: flex;
+  flex-direction: row;
+  background-color: lightgray;
+  justify-content: center;
+  position: fixed;
+  left: 0px;
+  right: 0px;
+  top: 0px;
+}
+.logo{
+  width: 60px;
+  display: block ;
+  margin-top: 10px;
+  border-radius: 30px;
+}
+.right-sec{
+  font-size: 50px;
+  margin-top: 5px;
+  margin-left: 30px;
+  font-style: roboto,arial;
+  color: blue;
+ }
